@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.training-session {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   background-color: rgb(226, 163, 68);
+    height: 3rem;
+    color: white;
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.time-session > strong {
+    color: black;
+}
