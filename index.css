@@ -29,8 +29,9 @@ body {
   align-items: center;
   background-color: rgb(226, 163, 68);
   height: 3rem;
-  color: white;
+  color: rgb(245, 240, 240);
   font-size: 1em;
+  font-family: "Poppins", sans-serif;
 }
 
 .time-session > strong {
